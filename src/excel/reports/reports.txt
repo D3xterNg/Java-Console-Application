@@ -1,0 +1,20 @@
+=====Members Report=====
+
+1: carnival
+List of Students: 
+1: DON84
+List of Committees: 
+1: DON84
+
+2: nbs camp
+List of Students: 
+List of Committees: 
+
+3: scse camp
+List of Students: 
+List of Committees: 
+1: YCHERN
+
+4: scse camp 2
+List of Students: 
+List of Committees: 
